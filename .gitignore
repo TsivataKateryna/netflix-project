@@ -1,7 +1,4 @@
+# Virtual environment
 venv/
-__pycache__/
-*.pyc
-*.pkl
-*.csv
-*.sqlite
-.ipynb_checkpoints/
+.venv/
+env/
